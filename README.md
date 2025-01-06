@@ -1,3 +1,6 @@
+![Banner](https://github.com/anakeyofsun/Anakeyofsun/blob/main/Typing.gif)
+
+
 ## 🌸 ¡Hello, world! My name is Anna! 🌸
 ### 🌼 Welcome to My Cozy Corner on GitHub! 🌼
  _A developer on a journey to craft code with heart and creativity._
@@ -33,6 +36,18 @@
 · ☕ My coding fuel is sweet coffee (lots of it!).
 
 · 🎨 I dream of creating the coziest cute game.
+
+-ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈
+
+#### 🌱 What I’m Currently Doing  
+
+· 🌟 Learning advanced Java and database design with MySQL.  
+
+· ✨ Developing a Telegram bot with PvP and PvE battles. 
+
+· 💡 Exploring ideas for an immersive MMORPG world.
+
+  
 <!--
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈
 

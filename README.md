@@ -9,7 +9,7 @@
 
 #### About Me ✨
 
-· 🎓 Currently studying Multiplatform Application Development.
+· 🎓 Just finished studying Multiplatform Application Development.
 
 · 🌱 Diving deep into Java, MySQL, and the endless possibilities of tech.
 
